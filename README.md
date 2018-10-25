@@ -3,8 +3,11 @@
 # service-fabric-52abp-ocelot
 A Service Fabric sample with a Frontend, one API Gateway and 52abp Microservices
 基于Service fabric + Ocelot + Identity Server4 + 52ABP 的案例展示
-
+## 对应仓库地址
 仓库地址信息：https://github.com/geffzhang/NanoFabric-ServiceFabric
+国内推荐地址-码云：https://gitee.com/aiabpedu/NanoFabric-ServiceFabric
+ 
+码云：https://gitee.com/yoyocms/LTMCompanyNameFree.YoyoCmsTemplate Github:https://github.com/52ABP/LTMCompanyNameFree.YoyoCmsTemplate
 本案例是由[张善友](https://github.com/geffzhang)，[staneee]( https://github.com/staneee)，[梁桐铭](https://github.com/ltm0203) 共同协作打造
  基于Service fabric + Ocelot + Identity Server4 + 52ABP 的案例展示
 ## 关于service farbic的基础部分参考
